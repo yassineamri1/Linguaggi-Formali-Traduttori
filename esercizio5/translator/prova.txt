@@ -1,0 +1,12 @@
+read(primo);
+read(secondo);
+read(terzo);
+print(primo secondo terzo);
+print(1000);
+print(10 primo 20 secondo 30 terzo +(10 10 10));
+print(1000);
+while(> primo 0)
+    cond    when(> secondo terzo) do {print(secondo); print(111)}
+            when(< secondo terzo) do {= primo 0; print(terzo); print(222)}
+            else print(800);
+print(700)

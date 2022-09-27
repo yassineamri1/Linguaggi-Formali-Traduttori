@@ -1,0 +1,6 @@
+10+5((30/6))
+
+/*d=300; // distanza
+t=10; // tempo
+print(d*t)*/
+test

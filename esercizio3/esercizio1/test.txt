@@ -1,0 +1,12 @@
+/*calcolare la velocita‘
+(= d 300) // distanza
+(= t 10) // tempo
+(print(*d t))*/
+
+
+d = 300; // distanza
+t = 10; // tempo
+print(* d t)
+
+while (conds <= printread) do  conds = conds + 1
+10+2((30/6+10))
